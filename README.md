@@ -1,2 +1,2 @@
 # helloworld
-for fun.
+Why not?
